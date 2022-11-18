@@ -1,5 +1,5 @@
 # MNIST Digit Generation with ACGAN
-This repository contains the Keras impltementation of MNIST Digit Generation with ACGAN (Auxiliary Classifier Generative Adversarial Network). ![Demo](demo_link)
+This repository contains the Keras impltementation of MNIST Digit Generation with ACGAN (Auxiliary Classifier Generative Adversarial Network). [Demo](https://www.youtube.com/watch?v=nUAYqLhZB-I)
 
 ![Model Architecture](./readme_images/Learning.gif "Captioning model architecture")
 
